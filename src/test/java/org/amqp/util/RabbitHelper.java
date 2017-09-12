@@ -1,4 +1,4 @@
-package org.amqp;
+package org.amqp.util;
 
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.BindingBuilder;

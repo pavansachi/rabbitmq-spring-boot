@@ -1,6 +1,6 @@
-package org.amqp;
+package org.app;
 
-import org.Application;
+import org.amqp.util.RabbitHelper;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

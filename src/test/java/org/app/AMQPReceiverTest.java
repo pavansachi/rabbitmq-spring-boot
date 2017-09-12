@@ -1,8 +1,9 @@
-package org.amqp;
+package org.app;
 
 import java.util.concurrent.TimeUnit;
 
-import org.Application;
+import org.amqp.util.RabbitHelper;
+import org.amqp.util.Receiver;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;

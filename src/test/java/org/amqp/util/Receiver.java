@@ -1,4 +1,4 @@
-package org.amqp;
+package org.amqp.util;
 
 import java.util.concurrent.CountDownLatch;
 

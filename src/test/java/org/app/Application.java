@@ -1,6 +1,6 @@
-package org;
+package org.app;
 
-import org.amqp.RabbitHelper;
+import org.amqp.util.RabbitHelper;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
